@@ -1,1 +1,7 @@
-{}
+{
+  "bazel": {
+    "digest": {
+      "enabled": false
+    }
+  }
+}

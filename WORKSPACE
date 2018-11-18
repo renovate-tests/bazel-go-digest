@@ -1,6 +1,6 @@
 go_repository(
     name = "org_golang_google_gprc",
-    tag = "v1.15.0",
+    tag = "v1.16.0",
     importpath = "google.golang.org/grpc",
 )
 
